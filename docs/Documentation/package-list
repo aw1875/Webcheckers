@@ -1,0 +1,8 @@
+com.webcheckers
+com.webcheckers.appl
+com.webcheckers.model
+com.webcheckers.model.Board
+com.webcheckers.model.Board.enums
+com.webcheckers.model.enums
+com.webcheckers.ui
+com.webcheckers.util

@@ -1,0 +1,8 @@
+BUILDING AND STARTING THE WEB-CHECKERS APPLICATION:
+1) Navigate to the folder that contains the Web-Checkers application using the terminal,
+   ex. cd Documents/Github/team-project-2185-swen-261-03-c-couchcoder
+2) Once you are in the correct folder, run the command "mvn compile exec:java".  This sets up the game server, but    now you need to connect to it using a client.
+3) Open up two DIFFERENT browsers (ie. Microsoft Edge, Firefox, Google Chrome, Safari, ect).  No, the game will not     work in private/incognito windows.  Yes, we've tried it.
+4) Once you have the two windows open, type "localhost:4567" into the address bar of each.  This will bring you to    the game lobby, where you are free to play checkers to your heart's content.
+
+NOTE: Currently, there are two bots that have been added to the game, "Bot-Red" and "Bot-White".  The acceptance criteria involving the bots is not included in the testing log, as they are not quite ready to be tested.  Feel free to play around with them, just note that while the underlying game logic should work as intended the bots themselves may have issues.  Feel free to note these issues if you encounter them.

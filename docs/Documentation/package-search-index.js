@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"com.webcheckers"},{"l":"com.webcheckers.appl"},{"l":"com.webcheckers.model"},{"l":"com.webcheckers.model.Board"},{"l":"com.webcheckers.model.Board.enums"},{"l":"com.webcheckers.model.enums"},{"l":"com.webcheckers.ui"},{"l":"com.webcheckers.util"}]
